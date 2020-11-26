@@ -1,7 +1,27 @@
 [
     {
         "id": 1,
-        "sweden": "",
-        "portuguese": ""
+        "sweden": "Hon ar en flicka",
+        "portuguese": "Ela é uma garota"
+    },
+    {
+        "id": 2,
+        "sweden": "En kvinna ater ett apple",
+        "portuguese": "Uma mulher come uma maçã"
+    },
+    {
+        "id": 1,
+        "sweden": "Du har en bok",
+        "portuguese": "Você tem um livro"
+    },
+    {
+        "id": 1,
+        "sweden": "Tack sa mycket och hej da",
+        "portuguese": "Muito obrigado e adeus"
+    },
+    {
+        "id": 1,
+        "sweden": "Jag tycker om en flicka",
+        "portuguese": "Eu gosto de uma garota"
     }
 ]
